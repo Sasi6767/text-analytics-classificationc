@@ -31,7 +31,6 @@ Contains preprocessed text data used for generating final predictions.
 - PyTorch
 
 ## Project Structure
-text-analytics-classification/
 ├── text_classification_logistic_regression.ipynb   # Main notebook with models and evaluation
 ├── test.csv                                       # Input dataset for prediction
 └── README.md                                     # Project documentation
