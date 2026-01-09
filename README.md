@@ -25,16 +25,16 @@ Contains preprocessed text data used for generating final predictions.
 
 ## Tools & Technologies
 - Python
-- pandas, numpy
+- pandas, NumPy
 - scikit-learn
 - transformers (BERT)
 - PyTorch
 
 ## Project Structure
 text-analytics-classification/
-│── text_classification_logistic_regression.ipynb   # Main notebook with models and evaluation
-│── test.csv                                       # Input dataset for prediction
-│── README.md                                     # Project documentation
+├── text_classification_logistic_regression.ipynb   # Main notebook with models and evaluation
+├── test.csv                                       # Input dataset for prediction
+└── README.md                                     # Project documentation
 
 
 ---
@@ -42,10 +42,11 @@ text-analytics-classification/
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/text-analytics-classification.git
+   git clone https://github.com/Sasi6767/text-analytics-classification.git
+
 
 
 ## Author
-Sasikumar Venkatesan
-MSc Data Science
+Sasikumar Venkatesan — MSc Data Science
+
 
