@@ -31,9 +31,10 @@ Contains preprocessed text data used for generating final predictions.
 - PyTorch
 
 ## Project Structure
-├── text_classification_logistic_regression.ipynb   # Main notebook with models and evaluation
-├── test.csv                                       # Input dataset for prediction
-└── README.md                                     # Project documentation
+- **text_classification_logistic_regression.ipynb** – Main notebook implementing both TF-IDF and BERT-based text classification models
+- **test.csv** – Input dataset used for generating final predictions
+- **README.md** – Project documentation and usage instructions
+
                         
 
 
